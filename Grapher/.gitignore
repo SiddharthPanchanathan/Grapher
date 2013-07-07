@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+bin
+anim_*.gif
+*.aux
+*.log
+*.toc
+*.out
+.DS_Store
+doc
